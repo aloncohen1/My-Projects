@@ -8,7 +8,10 @@
 
 # Notice: the orders will be updated in the sheet only after full payment has been received
 
-# Made by: Alon Cohen, alon.cohen8@mail.huji.ac.il
+# Video Demonstration : https://youtu.be/t7w8MIRy6CU
+
+# Made by: Alon Cohen, Bigalon1990@gmail.com
+
 
 # imports
 from ebaysdk.trading import Connection as Trading
